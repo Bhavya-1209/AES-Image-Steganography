@@ -45,7 +45,7 @@ steganography/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AES-Image-Steganography.git
+git clone https://github.com/Bhavya-1209/AES-Image-Steganography.git
 ```
 
 ### 2. Navigate to the Project
